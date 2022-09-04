@@ -9,5 +9,8 @@
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
+  },
+  "dependencies": {
+    "typescript": "^4.8.2"
   }
 }
